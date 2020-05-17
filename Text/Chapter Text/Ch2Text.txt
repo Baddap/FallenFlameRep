@@ -3,8 +3,8 @@
 [MidLeft][LoadWren]
 
 [MidLeft]#Wren
-We're here Wigbrand, I've sent Sarai to[N]
-scout the port just in case however.[A][N]
+We're here, Wigbrand. I've sent Sarai to[N]
+scout the port just in case, however.[A][N]
 Uhh... Wigbrand? Where are you...?[A]
 
 [MidRight][LoadWigbrand]
@@ -31,8 +31,8 @@ Is it safe up ahead?[AN][CloseSpeechSlow]
 Here! And I'm afraid not... Pirates[N]
 have swarmed the port up ahead, but[A][N]
 we've got some support. My father[N]
-anticipated our arrival so he's sent[A][N]
-two of my retainers over, Luz and Gad![A][N][CloseSpeechSlow]
+anticipated our arrival, so he's sent[A][N]
+two of my retainers over: Luz and Gad![A][N][CloseSpeechSlow]
 
 [Left][ClearFace]
 [MidRight][ClearFace]
@@ -42,8 +42,8 @@ two of my retainers over, Luz and Gad![A][N][CloseSpeechSlow]
 [Right][LoadGad]
 
 [MidRight]#Luz
-Hello Lady Wren, If you need a heal in[N]
-a pinch I'm more than happy to help and[A][N]
+Hello Lady Wren. If you need a heal in[N]
+a pinch, I'm more than happy to help and[A][N]
 wish the Goddess' blessings upon you.[A]
 
 [FarLeft]#Sarai
@@ -55,7 +55,7 @@ yourself, Gad![A]
 Hey Wren, I'm Gad. I open locks, steal[N]
 treasure and look good doing it. If you[A][N]
 need to know the best gambling dens on[N]
-the Blumari coast I'm your guy![A]
+the Blumari coast, I'm your guy![A]
 
 [MidLeft]#Wren
 I'd uhh... rather not. I value my[N]
@@ -66,7 +66,7 @@ Gad! Not like that![N][A]
 
 [MidRight]#Luz
 I tell myself to expect nothing decent[N]
-from his behaviour yet he has the power[A][N]
+from his behaviour, yet he has the power[A][N]
 to still disappoint. It's astonishing,[N]
 really, Lady Wren.[A]
 
@@ -80,10 +80,10 @@ Whatever, you nobles aren't any fun...[N][A]
 [FarRight][LoadWigbrand]
 
 [MidLeft]#Wren
-Anyway... back with the task at hand,[N]
+Anyway... back to the task at hand,[N]
 I believe taking out their commander[A][N]
 should disperse the pirates from here.[N]
-Once they've gone, we can press on.[A][N]
+Once they're gone, we can press on.[A][N]
 Sound good?[A]
 
 [MidRight]#Sarai
@@ -114,12 +114,12 @@ are entirely possible in that instance.[A]
 
 [FarLeft]#Sarai
 Wiggy, you should try being an optimist[N]
-more often. It's nothing to worry about[A][N]
+more often. It's nothing to worry about,[A][N]
 Wren! Worst case scenario? My father,[N]
 the renowed Shield of Blumari, Duke[A][N]
-Wystan will simply eliminate them once[N]
-they get there. He's strong you know![A][N]
-Plus, it's his citadel, he knows it[N]
+Wystan, will simply eliminate them once[N]
+they get there. He's strong, you know![A][N]
+Plus, it's his citadel. He knows it[N]
 better than the enemy does.[A]
 
 [MidRight]#Wren
@@ -129,14 +129,14 @@ unlikely to work, even if auxillary[N]
 pirate cannon fodder is spreading our[A][N]
 resources thin across the island.[N]
 I'm struggling to see their rationale[A][N]
-behind this reckless attack however.[A]
+behind this reckless attack, however.[A]
 
 [MidLeft]#Wigbrand
-As you know Western Viripuria is split[N]
+As you know, Western Viripuria is split[N]
 in two by a bloody civil war. On one[A][N]
 hand you have the Imperialists, on the[N]
-other, the Wyvember backed forces,[A][N]
-the Golden Revolutionaries. Right now[N]
+other, the Wyvember backed forces:[A][N]
+the Golden Revolutionaries. Right now,[N]
 Princess Adela and Emperor Ivan are the[A][N]
 only members of the imperial dynasty[N]
 that we know to be alive. Prince[A][N]
@@ -198,7 +198,7 @@ Ack! What was that noise?[N][A]
 Wyverns. The roar sounds like it came[N]
 from the north-east. It appears the[A][N]
 pirates are working with Wyvember.[N]
-They don't sound too far away, prepare[A][N]
+They don't sound too far away. Prepare[A][N]
 for an attack by them soon, Wren.[A]
 [X]
 
@@ -209,8 +209,8 @@ for an attack by them soon, Wren.[A]
 
 [Right]#Luz
 Oh my! Wigbrand, you look awfully pale.[N]
-I can't heal up your sea sickness but[A][N]
-I have some blessed herbs to relive you[N]
+I can't heal up your seasickness, but[A][N]
+I have some blessed herbs to relieve you[N]
 of your ailment.[A]
 
 [Left]#Wigbrand
@@ -218,7 +218,7 @@ Pah, leave me alone. Your so called[N]
 blessed herbs are mere vegetables.[A]
 
 [Right]#Luz
-How rude, I never knew you to have[N]
+How rude, I never knew you to had[N]
 such a sharp tongue, Wigbrand.[A]
 
 [Left]#Wigbrand
@@ -247,7 +247,7 @@ right path with time.[A]
 Trust me. I'm already on it. After a[N]
 few months I ought be back where I[A][N]
 should be. Then I won't need to listen[N]
-to fanatics like you again. Farewell[A][N]
+to fanatics like you again. Farewell,[A][N]
 cleric.[A]
 
 [Left][ClearFace]
