@@ -5,7 +5,7 @@
 
 [MidLeft]#Dana
 Drat... I can't believe I'm fleeing the[N]
-castle like a coward! But, if it is the[A][N]
+castle like a coward! But... if it's the[A][N]
 Duke's desire... Come! Hurry up Sarai![N]
 We'll have to request back-up.[A]
 
@@ -36,15 +36,15 @@ Wren's here too! Hey Wren![A]
 [Right]#Wren
 Sarai! Dana! I'm glad to see you two![N]
 What I'm not so glad to see are all the[A][N]
-bandits here, it seems my worst fears[N]
-were correct, they've taken the castle[A][N]
+bandits here. It seems my worst fears[N]
+were correct... they've taken the castle,[A][N]
 haven't they?[A]
 
 [MidLeft]#Dana
 They're still in the process of seizing[N]
-it from within. Meanwhile some of their[A][N]
-troops stand guard outside. I think the[N]
-Duke isn't in danger if we act swiftly.[A][N]
+it from within. Meanwhile, some of their[A][N]
+troops are standing guard outside. I think the[N]
+Duke won't be in danger if we act swiftly.[A][N]
 We should seize the front to ease the[N]
 burden of the castle guards inside.[A]
 
@@ -55,21 +55,21 @@ control here![A]
 
 [Right]#Wren
 Oh, you're joining into the fray too?[N]
-I didn't know you were eager for combat[A][N]
-Sarai, I'm kind of nervous about you[N]
-joining but I have faith in you![A]
+I didn't know you were eager for combat,[A][N]
+Sarai. I'm kind of nervous about you[N]
+joining, but I have faith in you![A]
 
 [Left]#Sarai
-Ahaha... uhmm, did I actually say we?[N]
+Ahaha... Uhmm, did I actually say we?[N]
 That may've been a slip of the tongue![A]
 
 [MidRight]#Wigbrand
 You seem ready enough to join in, with[N]
-those lances of yours, let's get to it.[A]
+those lances of yours. Let's get to it.[A]
 
 [Left]#Sarai
-I mean these are just for my own[N]
-protection Wiggy, ahaha...[A]
+I mean... these are just for my own[N]
+protection, Wiggy, ahaha...[A]
 
 [MidRight]#Wigbrand
 And you're under attack. So use them.[N]
@@ -78,11 +78,11 @@ the enemy will spread us thin.[A]
 
 [Left]#Sarai
 Ughh... fine... How on earth do you put[N]
-up with him Wren?[A]
+up with him, Wren?[A]
 
 [Right]#Wren
 Wigbrand means well, it's no issue.[N]
-Let's move out then, I believe in you[A][N]
+Let's move out, then. I believe in you[A][N]
 two![A]
 [X]
 
@@ -95,10 +95,10 @@ two![A]
 That's that, the gate is seized so we[N]
 can safely press on inside. Looks like[A][N]
 the rest of the bandits fled. I hope[N]
-granfather is safe...[A]
+grandfather is safe...[A]
 
 [MidRight]#Wigbrand
-His castle guards are formidable, I[N]
+His castle guards are formidable. I[N]
 would not be surprised if we'll enter[A][N]
 only to find the enemy routed.[A]
 [X]
@@ -109,7 +109,7 @@ only to find the enemy routed.[A]
 [Right][LoadWigbrand]
 
 [MidRight]#Wren
-No bandits inside, looks like you were[N]
+No bandits inside. Looks like you were[N]
 right, Wigbrand. Although... there's[A][N]
 plenty of blood everywhere... That's[N]
 going to stain the tiles for a while.[A]
@@ -124,19 +124,19 @@ us, Wren. He looks untouched.[A]
 Grandpapa![A]
 
 [MidLeft]#Falcone
-Wren! Oh I am relieved to see you! I[N]
+Wren! Oh, I am relieved to see you! I[N]
 can't believe you're on the battlefield[A][N]
 already... You've started sooner than I[N]
 did... How are you finding it all?[A]
 
 [MidRight]#Wren
 It's fine and so am I, grandpapa. Well,[N]
-it's not fine but you know what I mean,[A][N]
+it's not fine, but you know what I mean,[A][N]
 right?[A]
 
 [MidLeft]#Falcone
 No, don't worry, I fully understand.[N]
-As long as you, your father and your[A][N]
+As long as you, your father, and your[A][N]
 uncle are fine, I'm fine![A]
 
 [Right]#Wigbrand
@@ -162,7 +162,7 @@ capital?[A]
 
 [MidLeft]#Falcone
 He tried. But they were ambushed at sea[N]
-by a particuarly powerful foe so they[A][N]
+by a particularly powerful foe so they[A][N]
 had to change course.[A]
 
 [MidRight]#Wren
@@ -171,19 +171,19 @@ We'll travel by boat to the port from[A][N]
 here. Thank you, grandpapa, for the[N]
 update. I've been worried sick having[A][N]
 no word from father... It'd be nice to[N]
-stick around but with these pirates[A][N]
-invading I have no time to spare.[N]
+stick around, but with these pirates[A][N]
+invading, I have no time to spare.[N]
 Goodbye, grandpapa! I love you![A]
 
 [MidLeft]#Falcone
-I love you too Wren![N][A]
+I love you too, Wren![N][A]
 
 [MidRight][ClearFace]
 
 [MidLeft]#Falcone
 Tell me, Wigbrand, how does she truly[N]
-fare? I cannoy imagine that girl has[A][N]
-the fortitude to take a life, I barely[N]
+fare? I cannot imagine that girl has[A][N]
+the fortitude to take a life. I barely[N]
 could myself.[A]
 
 [Right]#Wigbrand
@@ -208,7 +208,7 @@ doubt that she will prove her worth in[A][N]
 battle. Once the inevitable campaign in[N]
 Gofaul starts, she will be the best[A][N]
 candidate to lead a coalition there.[N]
-Gofaul is her second home so to say, I[A][N]
+Gofaul is her second home, so to say. I[A][N]
 think she's better equipped than others[N]
 to gather the allies we need there.[A]
 
@@ -235,7 +235,7 @@ village to raid.[A]
 
 [Right]#Shamira
 Lady Sarai! Where are your other[N]
-retainers, Luz, Gad and Rudyard?[A]
+retainers, Luz, Gad, and Rudyard?[A]
 
 [Left]#Sarai
 Dana offered to escort me to Duke[N]
@@ -245,10 +245,10 @@ Aquanpool. Rudyard is on guard there.[A]
 
 [Right]#Shamira
 That's unusual, why would we be[N]
-fortifying Wystan citadel?[A]
+fortifying the Wystan citadel?[A]
 
 [Left]#Sarai
-Beats me. Nor me or my retainers know[N]
+Beats me. Neither me nor my retainers know[N]
 of the reason. My father has been tight[A][N]
 lipped over what's going on. I can only[N]
 presume we're preparing for an attack.[A]
@@ -268,7 +268,7 @@ That's possible. Maybe we'll run into[N]
 them soon.[A]
 
 [Left]#Sarai
-Oh I hope not! Caeda is terrified of[N]
+Oh, I hope not! Caeda is terrified of[N]
 wyvern riders.[A]
 
 [Right]#Shamira
@@ -291,7 +291,7 @@ a cute pegasus name... You might be[A][N]
 better off asking Lady Wren.[A]
 
 [Left]#Sarai
-Fair enough! Thanks for lending an ear[N]
+Fair enough! Thanks for lending an ear,[N]
 Shammi![A]
 
 [Right]#Shamira
