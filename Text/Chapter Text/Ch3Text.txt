@@ -6,13 +6,13 @@
 
 [MidLeft]#Wren
 This isn't a good sight, I can see[N]
-damage on the citadel, looks like the[A][N]
+damage on the citadel. Looks like the[A][N]
 enemy already got here before we did.[N]
-Your hunch was right Wigbrand...[A]
+Your hunch was right, Wigbrand...[A]
 
 [MidRight]#Wigbrand
-There still appears to be guards about,[N]
-they're doing some repairs but they[A][N]
+There still appear to be guards about.[N]
+They're doing some repairs, but they[A][N]
 still look poised for battle. Perhaps[N]
 they expect enemy reinforcements?[A]
 
@@ -43,7 +43,7 @@ Well...[A]
 Well... What? Don't leave me hanging![A]
 
 [MidRight]#Wystan Guard
-Duke Wystan as you know, is still[N]
+Duke Wystan, as you know, is still[N]
 recovering from the injury he sustained[A][N]
 during the annual beef festival when he[N]
 was trampled by a cow. The medication[A][N]
@@ -59,7 +59,7 @@ Wren?[A]
 
 [MidLeft]#Wren
 Mhmm, my father can recover from any[N]
-injury he faces, this wouldn't be the[A][N]
+injury he faces. This wouldn't be the[A][N]
 first time he's fought a Manakete.[N]
 We may need to prepare for battle if[A][N]
 it's true that enemy reinforcements may[N]
@@ -109,7 +109,7 @@ Sadly, yes. Your father did much of the[N]
 heavy lifting. He and princess Adela[A][N]
 are recovering in the room guarded by[N]
 those two Viripurian knights. I expect[A][N]
-enemy reinforcements to arrive so be[N]
+enemy reinforcements to arrive, so be[N]
 prepared to defend that point![A]
 
 [FarLeft][LoadWigbrand]
@@ -145,8 +145,8 @@ I'm a pretty hard hitter with my lance.[A][N]
 Point me wherever, I'll sort it quick.[A]
 
 [Left]#Wren
-You sound confident, I think we can[N]
-handle this then![A]
+You sound confident! I think we can[N]
+handle this, then![A]
 
 [Right]#Rudyard
 Haha, if only I was confident in stuff[N]
@@ -262,14 +262,14 @@ get easier from here on out.[A]
 
 [Left]#Wren
 We'll make sure to protect you with all[N]
-our strength Adela. Has there been any[A][N]
+our strength, Adela. Has there been any[A][N]
 word on Vladmir's status?[A]
 
 [Right]#Adela
 Unfortunately no. Last I saw of my[N]
 brother was when he was defending the[A][N]
-palace from one of the commander's of[N]
-the rebels. He was locked into a battle[A][N]
+palace from one of the rebel's commanders.[N]
+He was locked into a battle[A][N]
 with a dark rider... Both of them[N]
 disappeared behind a cloud of smoke[A][N]
 while the palace went up in flames...[N]
@@ -304,10 +304,10 @@ capital.[A]
 Yes, you're right. I can't shake off[N]
 the feeling however that we may still[A][N]
 need to be prepared for enemies on the[N]
-way however.[A]
+way.[A]
 
 [Right]#Adela
-If such a situation arises Wren, I can[N]
+If such a situation arises, Wren, I can[N]
 aid you with my light magic and[A][N]
 healing.[A]
 
@@ -324,7 +324,7 @@ the layout of this fortress.[A][N]
 Entrances to outside lead out from[N]
 the carpets on the eastern and south[A][N]
 western openings. The staircases by[N]
-the south also leads to outside.[A][N]
+the south also lead outside.[A][N]
 Beware of all kinds of reinforcements[N]
 emerging from these points![A]
 [X]
