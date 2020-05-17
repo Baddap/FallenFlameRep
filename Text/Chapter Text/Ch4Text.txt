@@ -20,7 +20,7 @@ preferred to accompny Adela.[A]
 [FarLeft]#Wigbrand
 Sir Kestral does not want to risk a[N]
 repeat of the last incident on seas.[A][N]
-If we travel in a small group like ours[N]
+If we travel in a small group like ours,[N]
 we can reduce the risk of attracting[A][N]
 enemy attention.[A]
 
@@ -55,15 +55,15 @@ It's nothing to worry about, Adela. I'm[N]
 pretty confident by this point that we[A][N]
 can push through this final batch of[N]
 enemies unscathed. Once we're done with[A][N]
-this lot, the invasion ought be over[N]
+this lot, the invasion ought be over,[N]
 practically speaking.[A]
 
 [FarRight]#Adela
-I believe in you Wren. What's the[N]
+I believe in you, Wren. What's the[N]
 objective then?[A]
 
 [Left]#Wren
-If we take out their commanders I think[N]
+If we take out their commanders, I think[N]
 that will be enough for them to realise[A][N]
 the invasion is lost. They'll disperse[N]
 and we can press on ahead.[A]
@@ -150,6 +150,6 @@ but you're mistaken. Farewell.[A]
 
 [Left]#Adela
 Maybe I am... It's been a while since I[N]
-saw Erasyl last anyway.[A]
+last saw Erasyl, anyway.[A]
 [X]
 
